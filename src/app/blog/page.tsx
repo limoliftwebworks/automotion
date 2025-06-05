@@ -16,7 +16,7 @@ export default function Blog() {
       title: "Understanding Auto Body Repair: A Complete Guide",
       excerpt:
         "Learn about the different types of auto body repair services and when you might need them. From minor dent removal to major collision repair...",
-      image: "/images/autored1.png",
+      image: "/images/1.png",
       date: "March 15, 2024",
       readTime: "5 min read",
       category: "Auto Body Repair",
@@ -56,7 +56,7 @@ export default function Blog() {
       title: "Common Types of Car Paint and Their Differences",
       excerpt:
         "Understanding different types of car paint, from metallic to pearl finishes. Learn about durability, maintenance, and repair considerations...",
-      image: "/images/autored1.png",
+      image: "/images/1.png",
       date: "February 25, 2024",
       readTime: "5 min read",
       category: "Paint",

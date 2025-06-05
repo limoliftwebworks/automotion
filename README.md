@@ -8,7 +8,7 @@
 - **Color Hex Finder**: https://www.color-hex.com/color-palette/1294
 - **Backup Delete Script**: node scripts/fix-config-types.js
 - **Automation Copy Script**: ./setup-new-project.sh
-- **NPM Script**: npm run generate-cursor-prompt
+- **NPM Script**: npm run fix-images
 - **🚀 ENHANCED Cursor Project Setup**: npm install node-fetch ------>>> npm run generate-automotive-redesign
 
 ## 📋 Setup Instructions

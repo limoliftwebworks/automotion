@@ -5,7 +5,7 @@
 Remove all hardcoded image paths that cause 404 errors and implement a system where hero background images are automatically controlled by configuration files instead of being hardcoded in CSS.
 
 ## 🎯 BUSINESS CONTEXT
-**Company:** 3 Guys
+**Company:** Automotion
 **Website Type:** 
 **Location:** 
 
@@ -18,11 +18,11 @@ Remove all hardcoded image paths that cause 404 errors and implement a system wh
 - 3.png
 - 4.png
 - access.png
-- auto-hero-mobile-blue.png
 - calculator.png
 - clock.png
 - free.png
 - logo.png
+- mobile1.png
 - shipping.png
 
 ## 🚀 IMPLEMENTATION STEPS
